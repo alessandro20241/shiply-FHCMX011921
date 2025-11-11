@@ -1,7 +1,7 @@
 {
   "FHCMX011921": {
-    "status": "Versandvorbereitung",
-    "statusClass": "→ 65% Shiply blue bar",
+    "status": "Auf dem Transportweg",
+    "statusClass": "→ 85% green bar",
     "sender": "Erik Lerby, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
     "receiver": "Ricardas Varno, Kryzioky Sody 5-oji g. 44, 08444 Vilnius, Litauen",
     "price": "4.200 €",
